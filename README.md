@@ -1,1 +1,1 @@
-# BCParanormal.github.io
+# BCParanormal
