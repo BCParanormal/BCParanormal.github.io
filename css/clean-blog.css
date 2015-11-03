@@ -399,6 +399,11 @@ body {
 	text-decoration: underline;
 }
 
+.text_left {
+	float: left;
+	text-decoration: underline;
+}
+
 .centered {
 	display: table-cell;
 	margin: 0 auto;
