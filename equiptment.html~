@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="BC Paranormal">
 	<meta name="keywords" content="BC Paranormal, ghost hunting, evp, lehigh valley">
-    <meta name="author" content="GhostHunter" >
+    <meta name="author" content="Brian Goodman">
 
     <title>B&C Paranormal - About Us</title>
 
@@ -17,7 +17,7 @@
 
     <!-- Custom CSS -->
     <link href="css/clean-blog.min.css" rel="stylesheet">
-
+	<link href="highslide/highslide.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -55,10 +55,10 @@
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="#" class="active">About</a>
+                        <a href="about.html">About</a>
                     </li>
 					<li>
-						<a href="equiptment.html">Equipment</a>
+						<a href="#" class="active">Equiptment</a>
 					</li>
                     <li>
                         <a href="contact.html">Contact</a>
@@ -72,14 +72,14 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('img/graveyard3.jpg')">
+    <header class="intro-header" style="background-image: url('img/equiptment.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="page-heading">
-                        <h1>About Us</h1>
+                        <h1>Some Equiptment we use</h1>
                         <hr class="small">
-                        <span class="subheading">Just your typical Husband and Wife Ghost hunting team</span>
+                        <span class="subheading">Will be adding to this page periodically.</span>
                     </div>
                 </div>
             </div>
@@ -90,18 +90,36 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-				<img src="img/us.jpg" class="img-circle responsive" style="width:300px; display:table-cell; margin: 0 auto;" />
-				<p>Never gave ghost hunting much thought when I was younger, then in the early 90's I was in school and rented a room from a young couple in a very old, Victorian style mansion. At night that house sounded like it was full of people. Chairs being pushed in and out, silverware clanging. First I was terrified, then it got to be "normal". Even the young couple seemed very matter of fact about the house. Their attitude was "Its over 100 years old, of course its haunted".</p>
-				<p>When I bought my house in 1994 I never really considered it haunted even though it was built in the 1870's, and I never had any experiences. However there was one odd thing, people who stayed at the house told me all sorts of bizarre happenings. I had one girlfriend who was a "sensitive" and she would not go into the front bedroom, she said there was "something" in there. When my daughter was born that room became her room, she could be heard talking in the middle of the night, like she was talking to a friend. Asked her who she was talking to and her reply was "no one".</p>
-				<p>Then I met my current wife, Corinne(She's the "C" in BC Paranormal), whatever was in there went into attack mode. One of sons reported someone was throwing quarters at him while he slept. One time when he woke up a quarter was neatly placed on his chest. He also refused to sleep in the front bedroom. My wife told me of many strange occurrences, like he wanting a specific recipe only to turn around and find the page open in her recipe book. Keep in mind, for 20 years, I saw NOTHING even remotely paranormal. Finally it happened, I went to get a coffee cup out of the cupboard, when I opened it up the cup flew out, across the kitchen, and almost hit Corinne. Smashed into a million pieces. She had enough. She did a purge on the house and the activity stopped</p>
-                <p>I am a fan of the late night radio program
-				<a href="http://www.coasttocoastam.com/" target="_blank"> Coast to Coast AM</a>. Years ago I heard a program that highlighted an organization called the GIS- Ghost Investigations society. They are "old school", in fact I heard them when Art Bell was hosting C2Cam. Their website has been down for  a while but they do have a
-				<a href="https://www.facebook.com/The-Ghost-Investigators-Society-236534663661/" target="_blank">Facebook Page</a>. This was long before the paranormal boom, and long before any of the paranormal TV shows. They had the creepiest EVP I ever heard. <br><br>
-				<iframe width="420" height="315" src="https://www.youtube.com/embed/6aGk0zZGX04" frameborder="0" allowfullscreen style="display:table-cell; margin:0 auto;"></iframe></p>
-				<p>That was it, I swore one day I'd get into EVP's. After all the creepy things that happened to my wife, she was not eager to go ghost hunting. I wanted to try it tho so I found an app called "Ghost Voice catcher". Basically you run the app and it asks questions, and records any answers. Never got anything on it until one time for our anniversary we stayed at the <a href="http://sayremansion.com/" target="_blank">Sayre Mansion</a> in Bethlehem,Pa. I ran the app overnight in the bathroom. I was shocked the next morning when I actually had an EVP. The question was "How many are in here?" Answer? "7". That was my first EVP ever. finally my wife relented, and we slowly built up the gear needed to go ghost hunting.</p>
-				<p>First place we investigated was in the old house I lived in. Oddly enough we really got very little, I kinda blamed my wife's "purging" the year before....but SOMETHING was there. It finally dawned on me. It was a little kid. When you go back and think of all the things that happened there it made perfect sense. It must have felt "safe" with me there alone. But when someone came and "stole" me away,the child acted out. The EVP's we got were from a child.</p>
-				<audio src="audio/alburtis/boots.mp3" class="centered" controls></audio>
-				<p class="comment">Just after you hear me say 'aaaand' you hear an 'oots' sound which we think is the child trying to say 'Boots' which is one of our cats names</p>
+				<h1 class="text_center">Voice recorder</h1>
+					<p>Probably the most important item by far, and like alot of things you can go mild to wild. There is all kinda of info on the internet about which one works best for EVP. I have a 
+					<a href="http://www.amazon.com/TASCAM-DR-05-Portable-Digital-Recorder/dp/B004OU2IQG" target="_blank"> Tascam DR-05</a>. You should be able to pick one up for $80-90. For the dollar its one of the best ones out there. Just google and get the best recorder you can afford. Also get the largest SD card you can afford, I recommend at least 8 gig's and I've filled that up on a long night so even more would be better. You want to record in the highest bitrate, (mine is set at 24 bit WAV format) and that chews up memory. Again make this the first thing you buy!</p>
+				<h1 class="text_center">Spirit Box</h1>
+					<p>This is another thing you can go mild or wild on, a good one for under $100 is the 
+					<a href="http://www.amazon.com/P-SB7-Spirit-Box-Research-Device/dp/B00AEYS74I" target="_blank">SB-7 Spirit Box</a>. I have heard some great things come thru one of these. What if your broke/really cheap? I have a solution.... try to find a 
+					Memorex 2Xtreme MB221 arm band radio. You can probably still find one used of Ebay. They a cheap (usually around $10) and easily hacked. Hacked you say? Yes you modify it so it never locks on a radio station, it just scans each station for a split second.  The guide I used to hack mine is right below here.<br>
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/EeZAYuMPtgs" frameborder="0" allowfullscreen 
+							class="centered"></iframe><br>
+                    </div>
+					<p>The most important thing about going cheap and hacking your own radio, is make SURE you get one that is "hackable". Again Google is your friend here. Alot of newer radios aren't able to be hacked</p>
+				<h1 class="text_center">Android Tablet or cell phone</h1>
+					<p>These are a must if you want to run ITC apps like Echovox. I have a 7" Samsung tablet, its saves me from using my $500 cell phone during investigations. The Iphone and Ipad apps just aren't as advanced as the Andoid ones. Spend some time on the Google play store and see what apps are out there.</p>
+				<h1 class="text_center">External speaker</h1>
+					<p>This is a must if you use the above spirit box. They are great to hook up to a tablet or phone also. I use a cable rather than bluetooth its up to you. You play the spirit box or ITC app thru the speaker and record it with your digital recorder like 
+					<a href="img/setup.jpg" class="highslide" onclick="return hs.expand(this)"> THIS</a>. Hook your hacked radio up the same way. That's what cool about the newer SB-7 models they come with speakers. You can get this cool little Canz "808" speaker on Amazon but really any little speaker will do fine. I like this model because its chargeable-not batteries, and the charge lasts a long time and its under $30 too.
+					<a href="http://www.amazon.com/808-CANZ-Bluetooth-Wireless-Speaker/dp/B00EFS120A" target="_blank">Amazon</a> is your friend!</p>
+				<h1 class="text_center">Digital cameras and video cameras</h1>
+					This section is incomplete, we haven't added these to our collection yet. Get as much Megapixels as you can afford. As far as video cameras , an IR one for night is the best. Just google "ghost hunting video cameras" and see what has the best reviews.
+				<h1 class="text_center">Odds and ends</h1>
+					<p>Don't forget cables and chargers for your cell phone/tablet. Extra batteries are a must also. Haunted locations are notorious for draining batteries. Plus you can look like a hero to another investigator if they need a battery. A good LED flashlight is a must also, you are investigating in the dark don't forget. If you are part of a team, handheld radios are a good idea. If you want to try communication with a flashlight, you will need a Mag-Light style flashlight. I'm very skeptical about these and I'm not the only one.......</p><br>
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe width="420" height="315" src="https://www.youtube.com/embed/AWW1T2shNMk" frameborder="0" allowfullscreen
+							class="centered"></iframe>
+						</div><br>
+					<p>The guy really have some good points. Remember to be a good investigator you must be skeptical.</p>
+					
+					<p>More to come later, happy hunting!! Any comments or suggestions please <a href="contact.html" target="_blank"> let us know.</a></p>
+					
             </div>
         </div>
     </div>
@@ -150,6 +168,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+	<script src="highslide/highslide-full.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="js/clean-blog.min.js"></script>
